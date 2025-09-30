@@ -4,6 +4,8 @@ description: Homework assignment on Variable Basic States.
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/5b84345047a28a134b2007a1dd2eec47_homework_9.pdf
 file_size: 96615
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

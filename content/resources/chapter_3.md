@@ -6,6 +6,8 @@ description: 'Lecture notes on Chapter 3: Effect of Transport on Composition. To
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/150705fe5687cdbf16e8dfe3f82329ed_chapter_3.pdf
 file_size: 237233
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

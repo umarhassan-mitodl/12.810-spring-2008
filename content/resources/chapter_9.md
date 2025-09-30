@@ -5,6 +5,8 @@ description: 'Lecture notes on Chapter 9: Atmospheric Tides. Topics include hist
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/9c695433ff2a222bdcf39ddc885f2e91_chapter_9.pdf
 file_size: 609087
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

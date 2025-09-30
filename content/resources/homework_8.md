@@ -4,6 +4,8 @@ description: Homework assignment on Internal Gravity Waves.
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/cc4065d8c49f1d995dcee08e2da79f7a_homework_8.pdf
 file_size: 87230
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
