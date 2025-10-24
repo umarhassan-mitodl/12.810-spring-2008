@@ -4,8 +4,6 @@ description: Homework assignment on generation of eddies by instability.
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/5d339f8c62667ac53d6dea71b1fec40c_homework_12.pdf
 file_size: 95412
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

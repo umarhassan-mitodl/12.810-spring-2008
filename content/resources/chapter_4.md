@@ -6,8 +6,6 @@ description: 'Lecture notes on Chapter 4: Statics of a Rotating System. Topics i
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/a55792047a5b8091d7aea0144ed878f0_chapter_4.pdf
 file_size: 178780
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

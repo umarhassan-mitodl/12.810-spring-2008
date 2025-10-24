@@ -4,8 +4,6 @@ description: Final comments from the professor at the end of the course text.
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/2d500c3114bf7bce6ce3c79a6d731859_postscript.pdf
 file_size: 37884
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

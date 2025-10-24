@@ -4,8 +4,6 @@ description: Homework assignment on simple energy balance climate models.
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/e45dbba87e9a9a9d93251635b945bb93_homework_1.pdf
 file_size: 60300
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

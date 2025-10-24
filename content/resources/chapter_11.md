@@ -6,8 +6,6 @@ description: 'Lecture notes on Chapter 11: Rossby Waves. Topics include shallow 
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/1d6bdbcda6b9eab6cc75849cf32b0791_chapter_11.pdf
 file_size: 195925
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

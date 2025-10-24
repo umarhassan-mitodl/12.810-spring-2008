@@ -4,8 +4,6 @@ description: Homework assignment on Dynamics in Atmospheric Physics.
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/8ba9dd25bb929bcc8b749f8cc6f4dda2_homework_5.pdf
 file_size: 32198
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

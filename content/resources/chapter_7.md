@@ -7,8 +7,6 @@ description: 'Lecture notes on Chapter 7: Symmetric Circulation Models. Topics i
 file: /courses/12-810-dynamics-of-the-atmosphere-spring-2008/e41ea4a3f5139a3238b30deaab0206c0_chapter_7.pdf
 file_size: 1023291
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
